@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on a Network Traffic Analyzer Tool using python<br>🤝I'm looking for help with AI & ML.<br>🌱I'm currently learning AI, ML, html and some frameworks like django, flask, etc.<br>
+🔭I'm currently pursuing my masters degree in Artificial Intelligence.<br>🤝I'm looking for help with AI & ML.<br>🌱I'm currently learning AI, ML, html and some frameworks like django, flask, etc.<br>
 
 
 ## 🌐 Socials:
